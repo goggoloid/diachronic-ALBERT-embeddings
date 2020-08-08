@@ -1,0 +1,1382 @@
+Clusters for word (resilience) with terms ():
+
+
+Cluster: 18
+
+These include issues related to: the security and resilience of electronic communication networks; collecting information on the location and availability of infrastructure, and; options to implement the consumer s right to consent to any attempt to store (or access) internet cookies on a user s equipment
+2011-Implementing_revised_EU_ElectronicCommunicationsFramework_IA_dec.txt
+1
+
+In addition, the interests of consumers are furthered by including provisions on the security and resilience of electronic communications networks
+2011-Implementing_revised_EU_ElectronicCommunicationsFramework_IA_dec.txt
+2
+
+It should be noted that a significant portion of these costs are unrelated to the security and resilience of electronic communications networks, as many occur due to separate criminal activity
+2011-Implementing_revised_EU_ElectronicCommunicationsFramework_IA_dec.txt
+3
+
+Article 13a and Article 13b of the Framework Directive introduce significant new measures to increase the security and resilience of public communications networks and the security of publicly available electronic communications networks
+2011-FWR_implementation_Governmentresponse_dec.txt
+4
+
+The Government is currently reviewing the legislative framework for the security and resilience of telecoms networks and services as part of the Telecoms Supply Chain Review37
+2019-EECC_Consultation_-_Publication_Version__4_Updated__dec.txt
+5
+
+This reflected the conclusions of the FTIR, in addition to setting out priorities and desired outcomes in a number of other areas, including consumer policy, postal services, and the security and resilience of telecoms networks
+2019-SSP_Government_response_FINAL_dec.txt
+6
+
+The SSP also sets out the Government s strategic priorities and outcomes in relation to safeguarding the interests of telecoms consumers, the security and resilience of telecoms networks, and postal services
+2019-SSP_Consultation_-_Publication_Version__2__dec.txt
+7
+
+Once complete, this project will provide further assurance on the operations and resilience of the department s ALBs
+2019-DCMS_Annual_Report_and_Accounts_2018-19_Print__excluding_cover__dec.txt
+8
+
+The overall aim of the programme is to enable arts and culture organisations working in partnership with Destination Organisations and other tourism partners to increase their reach, engagement and resilience, and it was open exclusively to applications from consortiums
+2019-Arts_Council_annual_report_17-18_dec.txt
+9
+
+Nearly £2.9 million of awards were made in 2014/15 to enable arts and culture organisations working in partnership with destination organisations to increase their reach, engagement and resilience through working with the tourism sector
+2019-Arts_Council_annual_report_14-15_dec.txt
+10
+
+
+Cluster: 1
+
+As part of the consultation, officials organized four large-scale events for stakeholders (each attended by over 120 representatives) and four smaller events on specific policy issues of concern (including security and resilience and infrastructure sharing)
+2011-Implementing_revised_EU_ElectronicCommunicationsFramework_IA_dec.txt
+1
+
+In addition, the Government commissioned two research projects on areas of potentially high impact   security & resilience and internet cookies
+2011-Implementing_revised_EU_ElectronicCommunicationsFramework_IA_dec.txt
+2
+
+Security and resilience obligations will cost industry around £55k per year and Ofcom £141k per year
+2011-Implementing_revised_EU_ElectronicCommunicationsFramework_IA_dec.txt
+3
+
+Furthermore, any threats to network security and resilience has an impact on the vast majority of UK households and businesses that are reliant on communications (be it fixed/mobile telephony or broadband)
+2011-Implementing_revised_EU_ElectronicCommunicationsFramework_IA_dec.txt
+4
+
+By adding security and resilience provisions to the EU Framework Directive (Articles 13a and 13b), the intent is to drive improvement in the availability of communications networks and encourage pan-European harmonisation of measures taken to safeguard such availability through a common regulatory framework
+2011-Implementing_revised_EU_ElectronicCommunicationsFramework_IA_dec.txt
+5
+
+Furthermore, any threats to network security and resilience may have an impact on the vast majority of UK households and businesses that are reliant on communications, be it fixed/ mobile telephony or broadband
+2011-Implementing_revised_EU_ElectronicCommunicationsFramework_IA_dec.txt
+6
+
+Furthermore threats to security and resilience also have a major impact on public service delivery, such as medical and police emergencies, and they continue to grow as a terrorist enabler and a military weapon
+2011-Implementing_revised_EU_ElectronicCommunicationsFramework_IA_dec.txt
+7
+
+Currently, there are a number of national and international standards that concern information security and resilience, some of which apply to all sectors and some are specific to the telecommunications sector
+2011-Implementing_revised_EU_ElectronicCommunicationsFramework_IA_dec.txt
+8
+
+Whilst the report as a whole is designed to  provide Government, industry and consumers with a clear indication of the state of the health of the communication infrastructure 13, there are two components   availability and resilience - that will cover similar requirements as Articles 13a and 13b
+2011-Implementing_revised_EU_ElectronicCommunicationsFramework_IA_dec.txt
+9
+
+With regards to increasing the transparency of security and resilience to communication users and customers, it is unlikely that this option will make a material difference over and above Ofcom s new infrastructure report
+2011-Implementing_revised_EU_ElectronicCommunicationsFramework_IA_dec.txt
+10
+
+25 Research commissioned by DCMS on security and resilience suggested that major security incidents in electronic communications networks numbered up to ten a year
+2011-Implementing_revised_EU_ElectronicCommunicationsFramework_IA_dec.txt
+11
+
+However, there are some cases, such as for consumer protection, e-privacy and security and resilience, where new regulatory requirements will be introduced by the revised Framework where consumers are likely to benefit, albeit at a cost to business and Ofcom
+2010-10-1133-implementing-revised-electronic-communications-framework-IA_dec.txt
+12
+
+A new chapter in the Directive describes the requirements of a new set of obligations on security and resilience to ensure, as far as is possible, the continuity and integrity of electronic communication services
+2010-10-1133-implementing-revised-electronic-communications-framework-IA_dec.txt
+13
+
+What are the policy objectives and the intended effects? The revised Framework describes the requirements of a new set of obligations on security and resilience to ensure, in so far as is possible, the continuity of electronic communication services during any event which may effect availability   this can include a security incident or loss of integrity
+2010-10-1133-implementing-revised-electronic-communications-framework-IA_dec.txt
+14
+
+The revised EU Electronic Communications Framework includes new provisions on security and resilience in the Framework Directive
+2010-10-1133-implementing-revised-electronic-communications-framework-IA_dec.txt
+15
+
+For example if a high level of cyber security and resilience already exists the potential benefits from increasing it further are likely to be relatively small for the businesses
+2018-Network_Information_Systems_Directive_Final_Impact_Assessment_dec.txt
+16
+
+The overall aim of the Hub is to become a focal point for research around privacy, ethics, trust, resilience, acceptability and security issues in IoT, and deliver wide-scale, socioeconomically impactful work that spans research domains, industries and policy matters
+2018-SQW__June_2018__IoT_UK_Interim_Evaluation_dec.txt
+17
+
+Specifically, the issues on which we were seeking views were:  Appeals;  Facilities sharing;  Security and resilience;  Dissuasive sanctions;  Equivalence for disabled end-users;  Personal data breach and enforcement; and  Cookies
+2011-FWR_implementation_Governmentresponse_dec.txt
+18
+
+Government sees the enhancement of security and resilience measures within Article 13a as an iterative process, which will develop with time, and which requires ongoing collaboration with industry
+2011-FWR_implementation_Governmentresponse_dec.txt
+19
+
+However, this is still insufficient if we want to achieve the key cyber security and network resilience goals that the UK Government has set
+2019-Huawei_response_to_DCMSs_public_consultation_on_the_Statement_of_Strategic_priorities_FINAL_27_March_2019_dec.txt
+20
+
+Huawei would like to suggest the following points for your consideration to demonstrate that standards could work in practice: Enhancing regulation by defining standards and requirements for security and resilience at different network layers (such as access, core and IT systems) is potentially an effective approach for Ofcom to take
+2019-Huawei_response_to_DCMSs_public_consultation_on_the_Statement_of_Strategic_priorities_FINAL_27_March_2019_dec.txt
+21
+
+CVCA1181D001 UNCLASSIFIED 20 UNCLASSIFIED 3 Scope and Context of Articles Furthermore, any threats to network security and resilience may have an impact on the vast majority of UK households and businesses that are reliant on communications, be it fixed/ mobile telephony or broadband
+2011-CVCA1181D001Impact_of_Security_and_Integrity_Provisions_of_ECF_v1-2_dec.txt
+22
+
+- Security breaches: The Government and Ofcom must co-operate closely to ensure clear guidance and to avoid duplication of existing work and the work regarding resilience should continue to focus on systemic risk, to ensure that a weak link is not a threat to the system as a whole
+2011-FWR2011-MBG_dec.txt
+23
+
+Even so, this will mean that not just on headline speeds but on quality and resilience, consumers see a massive increase in capability over their current service offering
+2017-Call_for_Evidence_Response_58_dec.txt
+24
+
+We hope that Ofcom in its new role will liaise closely with the CPNI and the relevant information exchanges that it hosts, in matters of resilience as well as security
+2011-FWR2011-Payments_Council_dec.txt
+25
+
+In relation to non-cyber security issues, such as resilience, the Government does not propose to change or replace existing standards and legislation that cover these issues
+2017-NIS_Consultation_Response_-_Government_Policy_Response_dec.txt
+26
+
+Specifically, the sections where we are seeking views are: Appeals; Facilities sharing; Security and resilience; Dissuasive sanctions; Equivalence for disabled end-users; Personal data breach and enforcement; and Cookies 
+2010-10-1132-implementing-revised-electronic-communications-framework-consultation_dec.txt
+27
+
+Similarly, the Consumer Council for Water s annual report for 2017-18 lists seven research reports  used to develop policy lines, to advise or influence the water industry, regulators and governments, and to inform stakeholders about customers  views on water issues, including retail competition and resilience in the water industry 
+2019-DCMS_Consultation_-_Telecoms_Consumer_Advocacy_-_July_2019_dec.txt
+28
+
+Continue to work on broader internet safety issues, including work led by UKCCIS, and raising awareness and resilience 2.1 Bring forward legislation, in the Digital Economy Bill, to establish a new law requiring age verification for commercial pornographic websites and applications containing still and moving images, and a new regulatory framework to underpin it The Government has introduced new legislation, in the Digital Economy Bill, on 5 July 2016
+2016-20160705_AVConsultationResponseFINAL__2__dec.txt
+29
+
+These will be delivered in 2016 17 and include the consolidation of current  resilience  funding into a new Resilient Heritage programme, with a larger budget and larger maximum grant (£250,000), a further round of the Heritage Endowments and Skills for the Future programmes, and a new Young People s programme
+2016-WEB1_Heritage_Lottery_Fund_Annual_Report_and_Accounts_for_the_year_ended_31_March_2016_dec.txt
+30
+
+We began to put into action the ambitions around digital capacity, resilience and impact, set out in Archives Unlocked, the government s strategy for archives, which our then minister and your predecessor, Matt Hancock MP, launched in March 2017
+2018-The_National_Archives_Annual_Report_and_Accounts_2017-18_Accessible_dec.txt
+31
+
+This is supported by a reserves policy that aims to keep free reserves at a modest level to achieve an appropriate level of resilience, and to designate any annual surpluses for projects
+2019-HRP_Annual_Report_and_Accounts_2018-19_dec.txt
+32
+
+We ve thought about resilience, and brought a new focus on business plans
+2019-Arts_Council_annual_report_14-15_dec.txt
+33
+
+
+Cluster: 0
+
+Furthermore, there is already a high level of inherent resilience in electronic communications networks and the services that run over them, especially those which form part of the critical national infrastructure
+2011-Implementing_revised_EU_ElectronicCommunicationsFramework_IA_dec.txt
+1
+
+Government acknowledges that there is a high level of inherent resilience in electronic communications networks and the services that run over them, especially those which form part of the critical national infrastructure
+2011-Implementing_revised_EU_ElectronicCommunicationsFramework_IA_dec.txt
+2
+
+Even when victims show relatively high levels of psychological resilience, they may still change their online behaviours in response to trolling
+2019-DCMS_REA_Online_trolling__dec.txt
+3
+
+Other methods involve increasing victim s psychological resilience and awareness, for example through psychological interventions aimed at trolls and victims; There is little evidence of legal protection offered for victims of trolling in the literature reviewed
+2019-DCMS_REA_Online_trolling__dec.txt
+4
+
+  DCMS 2018 Ipsos MORI | Superfast Broadband Evaluation Annex D - Appendices 5 wellbeing and empowerment, and enablement of personal skill building and self-sufficiency, thereby increasing perceived resilience despite being in a geographic location that may lack access to physical services
+2018-BDUK_SF_EVAL_ANNEX_D_PUBLIC_VALUE_dec.txt
+5
+
+It is thus unclear to what extent a capital subsidy will help SMEs achieve higher levels of resilience than at present
+2013-Ewan_Sutherland_Response_dec.txt
+6
+
+When looking at the speed, resilience and reliability that consumers want and businesses need in order to grow, it is clear that full fibre and 5G are the long-term answer
+2019-EECC_Consultation_-_Access_IA_dec.txt
+7
+
+This improved resilience arises in two ways: first, fibre is an inherently less faulty infrastructure than one that relies in part on metallic paths
+2017-Call_for_Evidence_Response_58_dec.txt
+8
+
+The adoption of a resilient ring architecture, rather than the tree and branch  design of a traditional telecoms network, also provides a much greater inherent resilience as it protects users from service disruption when (as is not uncommon) a fibre optic connection is damaged by streetworks undertaken by another utility
+2017-Call_for_Evidence_Response_58_dec.txt
+9
+
+When looking at the speed, resilience and reliability that consumers want and businesses need in order to grow, it is clear that gigabit-capable networks are the long-term answer
+2018-Consultation-tenants-access-to-gigabit-broadband_dec.txt
+10
+
+Financial resilience and sustainability, built in part through the ability to draw on a reliable, diverse base of funding, will be an important pre-requisite for the building of an increasingly vibrant VCS
+2010-LotteryShares_NCV0_dec.txt
+11
+
+To this end we note the  Switchover Process  to migrate consumers away from the fixed Copper network, it is worth emphasising that this network has been used extensively by the Energy Utilities for voice and data services because of the inherent resilience that has been designed into this communications network
+2019-Joint_ENA___JRC_Response_to_DCMS_Consultation_-_Statement_of_Strategic_Priorities_dec.txt
+12
+
+The key benefits of the fixed copper network are almost zero latency and the designed-in resilience of the network to power outage
+2019-Joint_ENA___JRC_Response_to_DCMS_Consultation_-_Statement_of_Strategic_Priorities_dec.txt
+13
+
+This resilience is attributable to a shift toward consumer usage of machines in the retail environment
+2013-Association_of_British_Bookmakers_dec.txt
+14
+
+While Symantec agrees with the consultation s suggestion that there is a high level of resilience in the UK s communication networks and systems recent incidents, such as the Stuxnet attack which was focused on gaining access and possible control of critical networks and infrastructures (in this case related to energy), is an indication that attacks targeting crucial national infrastructure networks are no longer merely a theory by a reality that must be prepared for
+2011-FWR2011-Symantec_dec.txt
+15
+
+It is also important that emergency services have a clear understanding of the level of resilience they have, so it is appropriate for all incidents affecting them to be reported to them
+2011-FWR2011-BT_dec.txt
+16
+
+As more mission/life critical applications are developed and deployed, and the technologies become ever more embedded in day-to-day life the need for greater resilience and reliability of the networks will increase accordingly
+2014-DCIS_consultation_final_dec.txt
+17
+
+It potentially indicates a growing resilience to cyber attacks, based on the changes that businesses have made over the last five years
+2020-Main_report_-_Cyber_Security_Breaches_Survey_2020_dec.txt
+18
+
+Supplementing the accounts, it provides a sense of the Museum's resilience to challenges and any residual vulnerability
+2018-HC_1309___National_Maritime_Museum___Report_and_Accounts_for_the_year_ended_31_March_2017__dec.txt
+19
+
+Real change and resilience is possible; while we will continue to do all that we can to champion and make the case for public investment in art and culture, operational resilience must be a continued priority
+2017-Arts_Council_annual_report_16-17_dec.txt
+20
+
+We also implemented a new finance team structure which provides greater resilience by ensuring the right skills and capacity are in place to deliver a fit-for-purpose finance service Managing Information Risk The Senior Information Risk Owner (SIRO) of the Library is supported by a Corporate Information Governance Group covering information compliance, information management and information security
+2017-British_Library_Annual_Report___Acounts_2017__1__dec.txt
+21
+
+The review recommended that the three collections should  continue to operate as they are, but working closer together would increase the public benefit of the collections and strengthen their resilience at a time of reducing resources 
+2012-GAC_AnnualReport-2011-2012_dec.txt
+22
+
+This arrangement has maintained a continuity of service and flexibility, while having the additional benefit of added resilience and access to specialist expertise
+2019-Historic_England_Annual_Report_and_Accounts_2018_19_dec.txt
+23
+
+This improvement is part of a series of initiatives that are aimed at improving the IT network and its resilience as well as enhancing the visitor s online capability and overall experience
+2018-National_Portrait_Gallery_annual_report_and_accounts_2017_to_2018_HC1306_dec.txt
+24
+
+
+Cluster: 19
+
+These include issues related to the security and resilience of electronic communication networks, collecting information on the location of infrastructure and allowing Ofcom to recover its costs for dispute resolution
+2011-Implementing_revised_EU_ElectronicCommunicationsFramework_IA_dec.txt
+1
+
+Public good - security and resilience of communications infrastructure could be considered to have the characteristics of a public good, like emergency services
+2011-Implementing_revised_EU_ElectronicCommunicationsFramework_IA_dec.txt
+2
+
+However, due to the potential significance of the new legislation   which is open to wide interpretation   and the burdens it would place on industry, DCMS commissioned research to analyse activities that communication providers currently take to maintain the security and resilience of networks, as well as to assess the potential impacts of implementing Articles 13a and 13b
+2011-Implementing_revised_EU_ElectronicCommunicationsFramework_IA_dec.txt
+3
+
+Furthermore, the resilience of electronic communications networks and services has thus far been entirely driven by industry and their commercial requirements
+2011-Implementing_revised_EU_ElectronicCommunicationsFramework_IA_dec.txt
+4
+
+They are designed to ensure that companies place greater importance on ensuring security and resilience of networks and services
+2010-10-1133-implementing-revised-electronic-communications-framework-IA_dec.txt
+5
+
+The Commission state that the  resilience and stability of network and information systems is therefore, essential to the completion of the Digital Single Market and the smooth functioning of the Internal market  (EC5, 2013, p
+2018-Network_Information_Systems_Directive_Final_Impact_Assessment_dec.txt
+6
+
+The security and resilience of our networks is of paramount importance and we have long-standing policies to mitigate risk from third-party suppliers
+2019-Response_to_the_DCMS_Public_Consultation_on_the_Statement_of_Strategic_Priorities_19-03-29___BT_dec.txt
+7
+
+In some instances the revised Framework extends obligations on Member States, National Regulatory Authorities (NRAs) and industry particularly with regard to: consumer protection; eprivacy; and security and resilience of networks and services
+2011-FWR_implementation_Governmentresponse_dec.txt
+8
+
+There were also significant concerns regarding the security and resilience of existing networks, as a detailed infrastructure map may leave networks vulnerable
+2011-FWR_implementation_Governmentresponse_dec.txt
+9
+
+Increasingly, once a minimum connectivity floor is reached, users will want to be confident about the reliability of the connection, its resilience, and the other factors which can impact on the user experience, such as the in-home network, or the ISP s network
+2016-bis-16-34-internet-speed-eu-consultation-response_dec.txt
+10
+
+Public good   security and resilience of communications infrastructure could be considered to have the characteristics of a public good, like emergency services
+2011-CVCA1181D001Impact_of_Security_and_Integrity_Provisions_of_ECF_v1-2_dec.txt
+11
+
+Secure and resilient telecoms infrastructure The Government s commitment to ensuring the UK s telecoms networks and services are secure and resilient ESOA agrees that the security and resilience of the UK s telecoms networks should be of paramount importance and a strategic priority for the UK Government
+2019-ESOA_response-DCMS-Consultation-5G_dec.txt
+12
+
+By this, he means that it enables its own evolution: the absence of any central command, the malleability and resilience of the architecture that underpins it, and the extraordinary array of coding languages which shape it, all unite to enable ordinary citizens to write and rewrite the future of the Internet
+2016-Report_of_DCMS_Expert_Panel__Autumn_2015__FINAL__dec.txt
+13
+
+Mobile UK completely agrees with the Government that the security and resilience of the UK s telecoms networks is of paramount importance and a strategic priority for Government
+2019-mobileUK_ssp_270319_hm_dec.txt
+14
+
+Automotive, Health and Care, are able to depend on the communications capability and resilience of new digital technologies such as 5G
+2017-JRC_Response_to_Future_Telecoms_Infrastructure_Review_-_DCMS_Call_for_Evidence_dec.txt
+15
+
+Executive summary As our reliance on technology grows, improving the security and resilience of the UK s essential services is increasingly important and is an essential requirement for a prosperous UK economy
+2017-NIS_Consultation_Response_-_Government_Policy_Response_dec.txt
+16
+
+Government response The Government welcomes the feedback provided and notes that most respondents were supportive of the approach set out in the draft SSP, as well as Ofcom s role in ensuring the security and resilience of the UK s telecoms infrastructure
+2019-SSP_Government_response_FINAL_dec.txt
+17
+
+Government will continue to work with Ofcom to ensure the security and resilience of the UK s telecoms networks are maintained to the highest standards
+2019-SSP_Government_response_FINAL_dec.txt
+18
+
+It is crucial that we seek to ensure that the UK has the cyber security capability it needs to maintain its resilience to cyber threats
+2018-Government_Response_to_Consultation_on_Developing_the_Cyber_Security_Profession_in_the_UK_-_21_December_2018_dec.txt
+19
+
+The Council sees digital connectivity as a key policy to supporting economic growth and to supporting the resilience of communities and individuals in a challenging financial environment
+2016-USOconsulation_responses_dec.txt
+20
+
+However, clearly it is important that any breach notification requirements introduced does not introduce additional burdens on providers but rather aims to support and enable providers to ensure the ongoing security and resilience of critical networks
+2011-FWR2011-Symantec_dec.txt
+21
+
+It is right that security and resilience of the UK s telecoms networks is a strategic priority for the Government, Ofcom and the mobile industry
+2019-Consultation_response_-_Three_dec.txt
+22
+
+The security and resilience of networks is obviously of key importance to customers and responsible Communication Providers will plan and operate their networks so that their customers have a clear understanding of what to expect concerning matters of security
+2011-FWR2011-Cable_and_Wireless_dec.txt
+23
+
+The security and resilience of the UK s telecoms networks is of paramount importance and a strategic priority for the Government
+2019-SSP_Consultation_-_Publication_Version__2__dec.txt
+24
+
+English Heritage works in partnership on philanthropy to help reinforce the financial resilience of the sector and to strengthen its own fundraising capacity The support English Heritage gave to the Heritage Alliance in preparing their successful HLF Catalyst bid is now bearing fruit with the  Giving to Heritage programme
+2015-English_Heritage_ARA_1415_Print_Version_dec.txt
+25
+
+ANNUAL REPORT & ACCOUNTS The uncertainty of the financial environment continues to impact on the resilience of the sector, including the potential impact of Brexit and access to European funds and touring/export to EU countries
+2017-Arts_Council_annual_report_16-17_dec.txt
+26
+
+Spanning 9,000 years of history, ancient and recent artefacts celebrated the identities and cultural resilience of the peoples of the Pacific Northwest Coast, including the Tlingit, Haida and Nisga a
+2017-60062_HC_68_Web_Accessible_dec.txt
+27
+
+As a result, it recommended that HLF should become more strategic, effective and efficient to ensure National Lottery funding continues to support the resilience of the heritage sector, benefits people and preserves heritage for future generations
+2018-National_Heritage_Memorial_Fund_ARA_2017-18_dec.txt
+28
+
+From a technological perspective, this year has seen the replacement of over 1,000 legacy Desktop PCs and laptops and significant work to improve the resilience and performance of the organisation s email service
+2019-Tate_Gallery_Annual_Report___Accounts_2018_-_2019_dec.txt
+29
+
+The resilience of the retail operation was such that net sales income only dropped 19% to £2.1 million (£2.6 million previous year)
+2018-National_Portrait_Gallery_annual_report_and_accounts_2017_to_2018_HC1306_dec.txt
+30
+
+We will support the capacity and resilience of the heritage sector as a whole, and encourage innovation and collaboration, including working across sectors with a wider range of partners
+2019-TNLHF_Annual_Report_and_Accounts_2018-19_dec.txt
+31
+
+
+Cluster: 28
+
+The scope of information is likely to include the use of spectrum, coverage of networks and services, capacity, geographic and population coverage, extent of infrastructure sharing, wholesale service provision, availability and resilience
+2011-Implementing_revised_EU_ElectronicCommunicationsFramework_IA_dec.txt
+1
+
+In addition to participation, the evaluation has considered the impact on children looked after in terms of educational attainment, attendance at school and increased self-esteem, social skills, self-advocacy and resilience
+2007-CulturalPathfinder_160707_full_dec.txt
+2
+
+These have now been revised to reflect the contributions of stakeholders and the independent research commissioned by Government into cookies and security and resilience
+2011-FWR_implementation_Governmentresponse_dec.txt
+3
+
+Ofcom will also publish documents in a number of other areas:  As a result of revisions to the Framework Directive, the Communications Act is being revised to place new obligations on providers of public networks and services and give Ofcom new duties in relation to network security and resilience
+2011-FWR_implementation_Governmentresponse_dec.txt
+4
+
+We began a Great Place Scheme forum and continued programme-specific forums on Landscape Partnerships, young people and heritage, skills and resilience
+2018-Heritage_Lottery_Fund_ARA_2017-18_dec.txt
+5
+
+Echo is also supporting the development of community time exchange projects, including Bromley By Bow Centre, thereby strengthening community cohesion and resilience
+2014-140723_Inspired_by_2012_-_2nd_annual_legacy_report_-_accessible_dec.txt
+6
+
+Global Future Cities (Foreign & Commonwealth Office, Cabinet Office, Departments for International Development and Trade, Innovate UK) The Global Future Cities programme will help 19 cities across 10 countries develop sustainably, by assisting with transportation, urban planning and resilience
+2018-Cross_government_Prosperity_Fund_Annual_Report_2018_dec.txt
+7
+
+It widened its age range, targeting girls and women aged from 14 to 60, and focused on building up a sense of belonging that can help them manage their fears and build up their resilience
+2017-HC88_Accessible_Combined_Sport_England_AR_2016-17_FINAL_WEB_OPTIMISED_dec.txt
+8
+
+Catalyst Arts: Catalyst Arts: is a £7 million fund which was open to applications from consortia and enables arts organisations with an underdeveloped fundraising model to increase capacity and expertise and improve their resilience
+2019-Arts_Council_annual_report_13-14_dec.txt
+9
+
+For the year 2018-19 the SGSA s internal auditors carried out reviews of standard operating procedures, managing resources against delivery, and IT, business continuity and resilience
+2019-Sports_Grounds_Safety_Authority_2018-19_Annual_Report_and_Accounts_dec.txt
+10
+
+
+Cluster: 29
+
+Data would be reported on a geographic basis where this may help to assess the impact of sharing on rural coverage or regional variations in network resilience
+2011-Implementing_revised_EU_ElectronicCommunicationsFramework_IA_dec.txt
+1
+
+  DCMS 2018 Ipsos MORI | Superfast Broadband Evaluation Annex D - Appendices 6 Recent papers define a framework for evaluating the impact of superfast broadband on individual and community resilience
+2018-BDUK_SF_EVAL_ANNEX_D_PUBLIC_VALUE_dec.txt
+2
+
+108.Recent papers define a framework for assessing the impact of better broadband on individual and community resilience
+2019-EECC_Consultation_-_Access_IA_dec.txt
+3
+
+92 Heesen, F, Farrington, J & Skerratt, S (2013), Analysing the role of superfast broadband in enhancing rural community resilience
+2019-EECC_Consultation_-_Access_IA_dec.txt
+4
+
+It should be recognised that during conflict the risk to cultural symbols is heightened  yet they are crucial for community and individual resilience
+2016-Cultural_protection_fund_consultation__2__dec.txt
+5
+
+CAS therefore agrees that Ofcom, as the regulator, needs to take action if it is not reassured that Royal Mail is planning and investing appropriately in order to achieve long-term resilience
+2019-CAS_response_to_DCMS_consultation_on_SSP_dec.txt
+6
+
+Monetised costs for roaming have assumed no extra capacity is required for network resilience
+2014-formatted_condoc_final_dec.txt
+7
+
+For example this allows latent capacity to be assigned on demand in the event of an underlying failure supporting efficient resilience
+2014-DCIS_consultation_Annex_D_dec.txt
+8
+
+Keeping services running locally if there is a loss of network is one of the measures that can be taken to increase resilience
+2019-Secure_by_Design_Consultation_Stage_Regulatory_Impact_Assessment_dec.txt
+9
+
+be resilient) to address such changes to their community structure and livelihood Recent papers define a framework for assessing the impact of better broadband on individual and community resilience
+2017-Universal_Service_Obligation_-_final_IA_dec.txt
+10
+
+Background knowledge Although this guidance focuses on Humanitarian Assistance as a separate work stream, it is part of a wider programme of work aimed at developing UK resilience
+2010-HA_strategic_guide_draft_dec.txt
+11
+
+Recent papers define a framework for assessing the impact of better broadband on individual and community resilience
+2018-New_Build_Developments_Impact_Assessment_FINAL_dec.txt
+12
+
+Some organisations saw having a contract with an external cyber security provider both as a way of signalling that they were taking cyber security seriously, and as a way of improving their overall cyber resilience
+2019-Cyber_Security_Breaches_Survey_2019_-_Main_Report_-_revised_dec.txt
+13
+
+Round two saw 186 expressions of interest, suggesting that demand won t be met, and very significant interest in ways to increase resilience
+2019-Arts_Council_annual_report_15-16_dec.txt
+14
+
+Our focus was on building organisational and financial resilience
+2019-TF19_013_Annual_Report-FULL_DIGITAL_REPORT-0.15_dec.txt
+15
+
+ Museums Review   HLF and Arts Council England each contributed to this review of museums and how they are funded, strategic leadership in the sector and how to build resilience
+2018-Heritage_Lottery_Fund_ARA_2016-17_dec.txt
+16
+
+Engelbrecht/ Official Photographer / Mayor of Rio s Office) Other areas of UK knowledge transfer were covered through projects on waste management, travel demand management and energy resilience
+2015-1662-B_Legacy_Report_2015_ACCESSIBLE_dec.txt
+17
+
+Generous leadership is one of five areas we will prioritise in supporting civil society to thrive; the others are digital, data, empowering communities, and organisational resilience
+2018-Big_Lottery_Fund-Annual_Report-2017-18.1FULL_WEB_dec.txt
+18
+
+This will provide loan funding to arts organisations to develop new ideas and to build their commercial income to increase long-term resilience
+2019-Arts_Council_annual_report_14-15_dec.txt
+19
+
+Buildings for the future We need to improve environmental sustainability in our sector not only because it is a pressing global concern, but also because it is a factor in improving financial resilience
+2019-Arts_Council_annual_report_13-14_dec.txt
+20
+
+The business plan should be for the organisation rather than the project, which reflects our growing interest in organisational resilience
+2019-TNLHF_Annual_Report_and_Accounts_2018-19_dec.txt
+21
+
+
+Cluster: 30
+
+In addition, the revised legislation allows the European Commission to adopt 'appropriate technical implementing measures' in order to harmonise the security and resilience measures outlined in Article 13a
+2011-Implementing_revised_EU_ElectronicCommunicationsFramework_IA_dec.txt
+1
+
+The revised Framework Directive introduces new provisions on security and resilience   Articles 13a and 13b
+2011-Implementing_revised_EU_ElectronicCommunicationsFramework_IA_dec.txt
+2
+
+What policy options have been considered? Please justify preferred option (further details in Evidence Base) Option 0: Do nothing Option 1: Copy the text of the security and resilience provisions of the Directive into new stand alone provisions in the Communications Act 2003
+2010-10-1133-implementing-revised-electronic-communications-framework-IA_dec.txt
+3
+
+The potential costs on others through the network though is usually not taken into account when companies consider how much to invest in resilience and security measures and practices
+2018-Network_Information_Systems_Directive_Final_Impact_Assessment_dec.txt
+4
+
+The MBG supports working towards agreement and clarity on resilience requirements between the communications provider community, BIS and Ofcom to guard against systemic risk
+2011-FWR2011-MBG_dec.txt
+5
+
+We would also expect contractual obligations to service providers to guarantee the kind of service quality and resilience characteristics and adoption of industry best practice on construction outlined above
+2017-Call_for_Evidence_Response_58_dec.txt
+6
+
+Higher levels would offer additional security and resilience performance to customers who value it
+2010-10-1132-implementing-revised-electronic-communications-framework-consultation_dec.txt
+7
+
+Arts Council England (ACE) provided £25,247 (2016-17: £242,030) for special projects and resilience measures and HLF provided £932,439 (2016-17: £112,277) as part of the Stage 2 capital grant for Unlocking the Geffrye
+2018-Geffrye_Museum_annual_report_and_accounts_2017_to_2018_HC1314_dec.txt
+8
+
+Arts Council England (ACE) provided £242,030 (2015-16: £237,949) for special projects and resilience measures and HLF provided £112,277 (2015-16: £368,258 as part of the Stage 1 capital grant for Unlocking the Geffrye
+2017-60284_HC_97_GM_Print_dec.txt
+9
+
+
+Cluster: 16
+
+In the electronic communications sector there are two prevailing features that may prevent economically efficient decisions being made from a societal point of view, with regards to security and resilience
+2011-CVCA1181D001Impact_of_Security_and_Integrity_Provisions_of_ECF_v1-2_dec.txt
+1
+
+Therefore, a security threat to one network has a direct impact on others, making it crucial that all networks maintain a certain level of resilience
+2011-CVCA1181D001Impact_of_Security_and_Integrity_Provisions_of_ECF_v1-2_dec.txt
+2
+
+6 some instances the regulatory powers of Member States, national regulators, and the Commission itself are being extended, particularly with regard to consumer protection, eprivacy, and security and resilience
+2010-10-1133-implementing-revised-electronic-communications-framework-IA_dec.txt
+3
+
+This is in addition to the initial and ongoing investment in the networks, and their operational support systems, to provide an inherent level of redundancy and resilience
+2011-CVCA1181D001Impact_of_Security_and_Integrity_Provisions_of_ECF_v1-2_dec.txt
+4
+
+Detailed planning may show that one or two additional frequency channels are required to provide extended coverage and resilience
+2002-digtv_spectrum_planning_dec.txt
+5
+
+We believe that the term  security audit  is essentially a compliance audit in relation to the requirements of the Directive on security and resilience
+2010-10-1132-implementing-revised-electronic-communications-framework-consultation_dec.txt
+6
+
+Government will need to review and extend existing safety regulations to take account of cyber safety and resilience
+2019-Secure_by_Design_Consultation_Stage_Regulatory_Impact_Assessment_dec.txt
+7
+
+For example, safety regulators may not have the cybersecurity expertise needed to review safety regulations in the light of security threats and the need for resilience
+2019-Secure_by_Design_Consultation_Stage_Regulatory_Impact_Assessment_dec.txt
+8
+
+The separate approaches to regulations and EU directives by different sectors and agencies works against an integrated or systems view of cyber safety and resilience
+2019-Secure_by_Design_Consultation_Stage_Regulatory_Impact_Assessment_dec.txt
+9
+
+The provisions of Arts 13a and 13b introduce significant (and potentially intrusive) new measures on network security and resilience
+2011-FWR2011-Everything_Everywhere_dec.txt
+10
+
+A number of respondents thought that infrastructure sharing could make a significant contribution to addressing the issue of partial not-spots, but some thought that current plans will not deliver the level of improvement needed, and others were concerned that infrastructure sharing would not deliver improvements in network capacity or resilience
+2014-Government_Response_FINAL__1__dec.txt
+11
+
+This should incentivise network and service providers to respond to identified threats and risks, and lead to higher standards across the sector in the management of cyber security and resilience
+2019-SSP_Consultation_-_Publication_Version__2__dec.txt
+12
+
+We also commissioned independent research on some of the most contentious issues regarding cookies, and security and resilience
+2011-Annual_Report_and_Accounts_2010_11_dec.txt
+13
+
+Catalyst: Evolve seeks to further support the sector to diversify its income streams by raising private income and increasing resilience
+2019-Arts_Council_annual_report_15-16_dec.txt
+14
+
+This new fund will allow more organisations from across the arts and culture sector to benefit from low interest loans to diversify their income streams and support their resilience
+2019-Arts_Council_annual_report_2018_2019_dec.txt
+15
+
+The refurbishment and remodelling work proposed in the lead up to and as part of the Inspiring People project will encompass a series of upgrades across the whole Gallery, particularly relating to building infrastructure and resilience
+2018-National_Portrait_Gallery_annual_report_and_accounts_2017_to_2018_HC1306_dec.txt
+16
+
+
+Cluster: 26
+
+This develops and shares best practice in improving resilience and coordinates responses to emergencies that occur
+2011-Implementing_revised_EU_ElectronicCommunicationsFramework_IA_dec.txt
+1
+
+Hence it is important to maintain a certain level of resilience and security
+2018-Network_Information_Systems_Directive_Final_Impact_Assessment_dec.txt
+2
+
+CVCA1181D001 UNCLASSIFIED 19 UNCLASSIFIED 3 Scope and Context of Articles The Electronic Communications Resilience and Response Group (EC RRG) develops and shares best practice in improving resilience and coordinates responses to emergencies that occur
+2011-CVCA1181D001Impact_of_Security_and_Integrity_Provisions_of_ECF_v1-2_dec.txt
+3
+
+That funding supports capital projects, audience development and engagement, acquisitions and collections development, skills development and support for resilience and long term sustainability
+2016-Museums_ReviewTermsofReference-versionforweb_dec.txt
+4
+
+The Government wants to ensure that this is taken into consideration when establishing measures necessary to enhance resilience and mitigate against security risks in the UK
+2010-10-1132-implementing-revised-electronic-communications-framework-consultation_dec.txt
+5
+
+3.2 Arts & Business believes the extra £50 million a year must be used effectively to encourage resilience and sustainability in the arts
+2008-LotteryShares_ArtsandBusiness_dec.txt
+6
+
+We continue to support resilience and sustainability through the provision of the Accreditation Scheme for museums and galleries in the UK
+2017-Arts_Council_annual_report_16-17_dec.txt
+7
+
+Aimed at enhancing sustainability, resilience and facilities for artists and audiences, the project is due to complete in summer 2018
+2017-Arts_Council_annual_report_16-17_dec.txt
+8
+
+The Accreditation Scheme for museums and galleries in the UK further supports resilience and sustainability
+2019-Arts_Council_annual_report_17-18_dec.txt
+9
+
+The Accreditation Scheme supports resilience and sustainability
+2019-Arts_Council_annual_report_2018_2019_dec.txt
+10
+
+One cohort is led by People Make It Work, who have designed and delivered the Change Creation programme, building resilience across the sector
+2019-Arts_Council_annual_report_2018_2019_dec.txt
+11
+
+Aimed at enhancing sustainability, resilience and facilities for artists and audiences, the project is due to complete in spring 2018
+2019-Arts_Council_annual_report_14-15_dec.txt
+12
+
+Due to complete in 2016/17, the project should facilitate new trading opportunities and improve financial resilience and environmental sustainability
+2019-Arts_Council_annual_report_13-14_dec.txt
+13
+
+Personal effectiveness   time management, influencing and persuading, resilience, presentation skills, recruitment training 2
+2019-British_Tourist_Authority_R_A_Web_Accessible__1___1__dec.txt
+14
+
+
+Cluster: 8
+
+With regards to resilience, it is proposed that communication providers report to Ofcom summaries of risk assessments and emergency planning, as well as mitigation measures, implementation plans, accepted risks and standards compliance
+2011-Implementing_revised_EU_ElectronicCommunicationsFramework_IA_dec.txt
+1
+
+low confidence; low resilience; stress & anxiety due to academic pressures; Low aspirations Delayed English language acquisition Low literacy & numeracy skills Not  work ready  as lack wider personal & social skills Monetary contributions: DWP outcome payments 25% contribution from Sheffield LA Paying for: 20.6 FTE in Delivery Body Wider SIB infrastructure (e.g
+2020-YEF_Evaluation_Report__dec.txt
+2
+
+Figure 4-26 below shows similar trends in resident employment rates across the nations and regions, albeit with a greater level of stability (and thus potentially greater resilience) within London
+2012-2012_Meta_Evaluation_Report_3_dec.txt
+3
+
+In addition to this we commissioned independent quantitative and qualitative research on cookies and security and resilience to ensure that we were capturing as many views as possible and developing policy on a clear and compelling evidence base
+2011-FWR_implementation_Governmentresponse_dec.txt
+4
+
+Impact assessments and our research on cookies and security and resilience are published at: www.culture.gov.uk/consultations/7806.aspx The Framework - Overview 9
+2011-FWR_implementation_Governmentresponse_dec.txt
+5
+
+To measure the risks related to security and resilience, the Government must be clear about the standards that align with the expectations of industry players, and take the lead in developing a systematic risk evaluation system to identify and prioritize different types of risks
+2019-Huawei_response_to_DCMSs_public_consultation_on_the_Statement_of_Strategic_priorities_FINAL_27_March_2019_dec.txt
+6
+
+The issue of network integrity and resilience has always been important and has been maintained by all network providers and therefore the Government should only grant new powers to the minimum extent necessary
+2011-FWR2011-BSkyB_dec.txt
+7
+
+The increasing importance of security and resilience means that a core element of this connectivity will continue to be delivered by private / self provided (wireless) networks
+2019-190327_WHP_Telecoms_response_on_DCMS_condoc_on_Strategic_Priorities_FINAL_dec.txt
+8
+
+The increasing need for security and resilience however means that the role of private wireless networks will continue, if not increase
+2019-190327_WHP_Telecoms_response_on_DCMS_condoc_on_Strategic_Priorities_FINAL_dec.txt
+9
+
+The MBG believes that the Government and Ofcom s work in respect of resilience should continue to focus on systemic risk
+2011-FWR2011-MBG_dec.txt
+10
+
+Their ability to maintain resilience depends on being able to source equipment from a diversity of world class vendors
+2019-mobileUK_ssp_270319_hm_dec.txt
+11
+
+The Government believes that Article 13a will introduce a more structured approach to ensuring security and resilience and greater accountability for the industry
+2010-10-1132-implementing-revised-electronic-communications-framework-consultation_dec.txt
+12
+
+It makes a substantial impact in children s digital literacy 12 and resilience, with the brand and creative track record to do so
+2017-Internet_Safety_Strategy_green_paper_dec.txt
+13
+
+In the future, regulations must integrate safety, security and resilience to protect consumers
+2019-Secure_by_Design_Consultation_Stage_Regulatory_Impact_Assessment_dec.txt
+14
+
+We would like to observe that while Article 13a may introduce a more structured approach to ensuring security and resilience across the industry generally, BT already operates a complex structure of risk identification, mitigation and management across all lines of business
+2011-FWR2011-BT_dec.txt
+15
+
+Business already expects security and resilience from the networks it connects with
+2014-DCIS_consultation_final_dec.txt
+16
+
+Risks to resilience go wider than changes in consumer behaviour
+2019-SSP_Consultation_-_Publication_Version__2__dec.txt
+17
+
+This funding will enable the arts and culture organisations to increase their reach, engagement and resilience through partnerships with tourism which will in turn help to drive growth in the visitor economy
+2019-Arts_Council_annual_report_14-15_dec.txt
+18
+
+To improve our own resilience, we have identified and are developing the skills and succession planning that we need for the future
+2019-Historic_England_Annual_Report_and_Accounts_2018_19_dec.txt
+19
+
+
+Cluster: 20
+
+There is a high level of inherent resilience in communications networks and services, and on the whole such networks and services have good levels of in-built security and resilience
+2010-10-1133-implementing-revised-electronic-communications-framework-IA_dec.txt
+1
+
+Implicit theories of online trolling: Evidence that attentionseeking conceptions are associated with increased psychological resilience
+2019-DCMS_REA_Online_trolling__dec.txt
+2
+
+(2016) Implicit theories of Online trolling: Evidence that attentionseeking conceptions are associated with increased psychological resilience
+2019-DCMS_REA_Online_trolling__dec.txt
+3
+
+Future activity We recognise the increased need for financial resilience
+2018-V_A_annual_report_and_accounts_2017_to_2018_HC_1263_dec.txt
+4
+
+LONGER TERM BENEFIT   that projects can achieve longer-term financial viability and resilience
+2018-Big_Lottery_Fund-Annual_Report-2017-18.1FULL_WEB_dec.txt
+5
+
+Future activity We recognise the increased need for  nancial resilience
+2019-VARPT1907-sigs-new-0709_Final_Published_dec.txt
+6
+
+
+Cluster: 2
+
+__________________________________________________________________________________ Name of paper: Implicit theories of online trolling: Evidence that attention-seeking conceptions are associated with increased psychological resilience Paper Reference: Maltby J
+2019-DCMS_REA_Online_trolling__dec.txt
+1
+
+_________________________________________________________________________________ Name of paper: Implicit theories of online trolling: Evidence that attention-seeking conceptions are associated with increased psychological resilience Paper Reference: Maltby, J
+2019-DCMS_REA_Online_trolling__dec.txt
+2
+
+
+Cluster: 3
+
+Brief summary of study characteristics: Three studies were made for this research to investigate people s conceptions of online trolls, particularly conceptions associated with psychological resilience to trolling
+2019-DCMS_REA_Online_trolling__dec.txt
+1
+
+Study (1): participants rated characteristics of online trolling   5 group factors were highlighted; (2) participants evaluated hypothetical profiles of online trolling messages to establish the validity of the five factors; (3) introduced a 20- item  Conceptions of Online Trolls scale  to examine the extent to which the five group factors were associated with resilience to trolling
+2019-DCMS_REA_Online_trolling__dec.txt
+2
+
+448-466 Brief summary of study characteristics: Report based on three studies focusing on conceptions of online trolling, specifically psychological resilience to trolling
+2019-DCMS_REA_Online_trolling__dec.txt
+3
+
+
+Cluster: 21
+
+Concludes that use of an implicit theories approach can improve the measuring of conceptions of trolling, and points towards a resilience strategy against trolling
+2019-DCMS_REA_Online_trolling__dec.txt
+1
+
+Plum Consulting advises this is excessive given outages are rare, however having no resilience requirement presents a risk of mass loss of service
+2014-formatted_condoc_final_dec.txt
+2
+
+These documents are available on the UK resilience website
+2010-HA_strategic_guide_draft_dec.txt
+3
+
+We have taken further strides in transforming the organisation to meet the continued challenging economic conditions, helped by a two-year resilience grant from Arts Council England, which ended June 2017
+2018-Geffrye_Museum_annual_report_and_accounts_2017_to_2018_HC1314_dec.txt
+4
+
+We have taken further strides in transforming the organisation to meet the continued challenging economic conditions, helped by a two-year resilience grant from Arts Council England, ending June 2017
+2017-60284_HC_97_GM_Print_dec.txt
+5
+
+
+Cluster: 4
+
+The concept of  community resilience 37 covers the potential for superfast connectivity to generate positive outcomes for the cohesion and strength of local (especially rural) communities
+2018-Superfast_Integrated_Report_dec.txt
+1
+
+The concept of  community resilience  5 covers the potential for superfast connectivity to generate positive outcomes for the cohesion and strength of local (especially rural) communities
+2018-BDUK_SF_EVAL_ANNEX_D_PUBLIC_VALUE_dec.txt
+2
+
+As well as digital resilience: building the personal emotional resources needed to understand online risks, knowing what to do to seek help, learning from experience and recovering when things go wrong
+2017-Internet_Safety_Strategy_green_paper_dec.txt
+3
+
+
+Cluster: 10
+
+The programme was typically 13 weeks long, during which a coach developed and implemented an individualised action plan with the young person, which could include resilience training, coaching, employability support, the completion of qualifications and sign-posting to other specialised provision
+2020-YEF_Evaluation_Report__dec.txt
+1
+
+Such architectures allow  any to any  fibre connectivity and can offer resilience and low cost breakouts to small cell locations (i.e
+2017-O2_-_Future_Telecoms_Infrastructure_Review_-_Telefonica_response__1__dec.txt
+2
+
+4.6.2 Current baseline At present there is no NRA that issues binding instructions exclusively to PECN or PAECS providers or on the specific of matters of risk assessment, resilience or notifications of breach
+2011-CVCA1181D001Impact_of_Security_and_Integrity_Provisions_of_ECF_v1-2_dec.txt
+3
+
+Use cases for direct fibre connectivity include data centre connectivity which requires resilience and high bandwidth video postproduction work flows
+2014-DCIS_consultation_Annex_D_dec.txt
+4
+
+DDoS attacks, Malware, hacking etc.), and their Competent Authority or relevant Lead Government Department (depending on guidance) for non cyber or resilience incidents (e.g
+2017-NIS_Consultation_Response_-_Government_Policy_Response_dec.txt
+5
+
+Such instructions could be issued to address perceived failure in relation to risk management (and appropriate actions on resilience for network providers)
+2010-10-1132-implementing-revised-electronic-communications-framework-consultation_dec.txt
+6
+
+Not to mention presenting resilience issues for the provision of emergency service transmissions in remote areas, if a 4G successor to the airwave  system does not provide full and reliable backhauled coverage across the UK
+2016-USOconsulation_responses_dec.txt
+7
+
+Corporate users will be able to obtain the greater speeds, bandwidth, resilience and security they require through known developing or existing products and competition
+2014-DCIS_consultation_final_dec.txt
+8
+
+
+Cluster: 12
+
+Young people also talked extensively about maturity and resilience, both of which are traits which bode well for better decision-making around risky behaviours
+2020-YEF_Evaluation_Report__dec.txt
+1
+
+Based on research and anecdotal evidence from schools, these issues include: Concentrations of young people with health and wellbeing issues, including low levels of: self esteem; confidence; resilience; social, communication and engagement skills; aspirations and awareness of opportunities; and some serious mental health issues
+2020-YEF_Evaluation_Report__dec.txt
+2
+
+Our view is that the ability of all young people, both now and in the future, to develop motivation, resilience and selfconfidence is not a soft skill but a fundamental requirement
+2017-The_Steve_Holliday_Report_dec.txt
+3
+
+support the personal and social development of young people through which they build the capabilities they need for learning, work, and the transition to adulthood   communication, confidence and agency, creativity, managing feelings, planning and problem solving, relationships and leadership, and resilience and determination; d
+2019-Statutory_Guidance_for_Local_Authorities_on_Services_and_Activities_to_Improve_Young_People_s_Well-being_dec.txt
+4
+
+It provides quality assured reading to support the health, well-being and emotional resilience of young people
+2017-LibrariesAnnualReport2016Final.docx_dec.txt
+5
+
+Examples of support is offered through a stress assessment toolkit to reduce stress levels; Charity for Civil Servants wellbeing drop-ins; regular webinars on topics including resilience, wellbeing, stress and bereavement; weekly mindfulness drop-ins; sports and social clubs and an Employee Assistance Programme for confidential counselling
+2019-DCMS_Annual_Report_and_Accounts_2018-19_Print__excluding_cover__dec.txt
+6
+
+The project supported them to realise the artistic force of their own words and to develop their confidence, resilience and voice through poetry, spoken word, script writing and storytelling
+2019-Arts_Council_annual_report_17-18_dec.txt
+7
+
+We published the Government s first progress and good practice report on Body Confidence which promotes understanding why body confidence matters and what industry and the voluntary sector can do to support young people s resilience and self-esteem
+2013-DCMS_Annual_Report_and_Accounts_2012-13_for_GOV.UK_dec.txt
+8
+
+
+Cluster: 24
+
+In this literature this operates mostly within a rural context, where community resilience is highlighted as particular issue
+2018-BDUK_SF_EVAL_ANNEX_D_PUBLIC_VALUE_dec.txt
+1
+
+Since its relaunch in 2015, the programme has focussed strongly on building digital resilience in 7   16 year olds by producing social media and digital resources that help them understand the different ways they are advertised to online
+2017-Government_Response_to_the_Internet_Safety_Strategy_Green_Paper_-_Final_dec.txt
+2
+
+One way to increase resilience would be to take a leased line from BT for which an SLA is available
+2013-Ewan_Sutherland_Response_dec.txt
+3
+
+Available online at: https://www.sciencedirect.com/science/article/pii/S0743016716306799 85 Ashmore, F, Farrington, J & Skerratt, S (2015), Superfast broadband and rural community resilience: examining the rural need for speed
+2019-EECC_Consultation_-_Access_IA_dec.txt
+4
+
+In the literature this operates mostly within a rural context, where community resilience is highlighted as a particular issue
+2018-New_Build_Developments_Impact_Assessment_FINAL_dec.txt
+5
+
+What approaches are employed to protect interconnect resilience against unwanted traffic like spam or DoS attempts? 14
+2011-CVCA1181D001Impact_of_Security_and_Integrity_Provisions_of_ECF_v1-2_dec.txt
+6
+
+This will provide greater opportunity for forward planning resilience and financial stability than is possible within the annuality of government funding mechanisms
+2013-1307-A_English_Heritage_Large_Print_dec.txt
+7
+
+The current citizenship curriculum therefore complements the aims of this Strategy to develop young people's digital resilience and sense of digital citizenship
+2017-Internet_Safety_Strategy_green_paper_dec.txt
+8
+
+Education, training and awareness: increasing the UK s resilience through innovative tools, services, resources, campaigns and training 2
+2017-Internet_Safety_Strategy_green_paper_dec.txt
+9
+
+21 Modernising Consumer Markets 4 July 2018 Protection from scams, including cyber security: We have welcomed Ofcom s commitment to network resilience in its Annual Plan
+2019-Communications_Consumer_Panel_-_Modernising_Consumer_Markets_response_0407_._dec.txt
+10
+
+The arrangements for UK resilience are set out in the Civil Contingencies Act (2004) and its supporting guidance
+2010-HA_strategic_guide_draft_dec.txt
+11
+
+Those organisations already involved in community resilience activities
+2010-HA_strategic_guide_draft_dec.txt
+12
+
+The group undertaking the analysis should also ensure that their work is reinforced by that of LRF groups reviewing the arrangements for recovery planning and also community resilience strategies
+2010-HA_strategic_guide_draft_dec.txt
+13
+
+Community resilience 109
+2018-New_Build_Developments_Impact_Assessment_FINAL_dec.txt
+14
+
+It also covers network resilience and, in the 2013 report, the migration from IPv4 to IPv6, to ensure the availability of internet addresses
+2014-DCIS_consultation_final_dec.txt
+15
+
+Two of the initial areas of focus for the UKRN are facilitating efficient multi-sector investment projects, and assessing cross-sector resilience and cyber-security
+2014-DCIS_consultation_final_dec.txt
+16
+
+The ARC also held strategic risk workshops and provided regular oversight of corporate resilience including the strategic review of resources, improving security and financial systems and shared services
+2016-DCMS_Annual_Report_and_Accounts_2015-16__Print_Ready_Version__dec.txt
+17
+
+Their seven step programme builds emotional resilience, using mentoring support and employability skills, residential trips (which include equine therapy, sport and music) and work placements
+2019-TF19_013_Annual_Report-FULL_DIGITAL_REPORT-0.15_dec.txt
+18
+
+We found that there is a lot of support available to build resilience, and much of this is free or low cost
+2019-TF19_013_Annual_Report-FULL_DIGITAL_REPORT-0.15_dec.txt
+19
+
+Sectors include: environmental regulation, green finance, climate resilience, energy and power sector reform, infrastructure, urban development and renewable energy
+2018-Cross_government_Prosperity_Fund_Annual_Report_2018_dec.txt
+20
+
+Over the next five years we will build our financial resilience further, with the delivery of new change initiatives, placing us in a better position to manage potential financial risks and new pressures over this period
+2019-IWM_Annual_Reports_and_Accounts_2018-2019_dec.txt
+21
+
+ In addition to funding, we looked to build resilience within the sector   the second theme of the action plan for Archives Unlocked   by supporting the development of 12 archive networks
+2018-The_National_Archives_Annual_Report_and_Accounts_2017-18_Accessible_dec.txt
+22
+
+We are continuing to support sector resilience through our strategic funds and by investing in projects that explore new ways of working
+2017-Arts_Council_annual_report_16-17_dec.txt
+23
+
+International market development plays an ever more significant role in building financial resilience, with National Portfolio Organisations earning £69 million from international activity in 2016/17
+2019-Arts_Council_annual_report_17-18_dec.txt
+24
+
+The themes are:  diversity and entrepreneurship  international philanthropy   bringing successful international models of growing philanthropy to England  change management  what are you good at   making the most of your intellectual property The School for Social Entrepreneurs has been awarded £373,313 to deliver a programme to support cultural organisations to build resilience through diversity and entrepreneurship
+2019-Arts_Council_annual_report_17-18_dec.txt
+25
+
+Our efforts to increase our financial resilience were boosted by the launch of our Enhanced Advisory Services in October
+2016-26335_R_Historic_England_Annual_Report_8_July_dec.txt
+26
+
+Board of Trustees Significant issues considered by the Board of Trustees in 2015-16 included:  Financial resilience: In light of uncertainty in the wider economy and the risk of further reductions in Government funding, there is an overarching need for SMG to increase income from other sources, achieve operational efficiencies and exercise stringent financial management
+2016-SMG_R_A_2015-16_gov_dec.txt
+27
+
+ Financial resilience   In light of uncertainty in the wider economy and the risk of further reductions in Government funding, there is a continued and overarching need for the Group to increase income from other sources, achieve operational efficiencies and exercise stringent financial management
+2018-Science_Museum_Group_annual_report_and_accounts_2017__2018__HC1307_dec.txt
+28
+
+This includes investment in capital projects to support resilience We will also be evaluating our progress towards delivering our five goals, using the success measures outlined in the  green book 
+2019-Arts_Council_annual_report_14-15_dec.txt
+29
+
+We also provided advice on the Cultural Protection Fund, run by the British Council, to support heritage resilience in conflict zones; and we have developed a license to cover translation of our written guidance and training materials to support heritage organisations abroad
+2019-Historic_England_Annual_Report_and_Accounts_2018_19_dec.txt
+30
+
+In 2019 20 we will begin implementing the Framework with the launch of the open programme, the roll out of our first campaigns on digital skills and sector resilience and capacity building, and the opening of a new major awards competition (grants over £5million) for award in 2020 21
+2019-TNLHF_Annual_Report_and_Accounts_2018-19_dec.txt
+31
+
+
+Cluster: 6
+
+Ashmore, Farrington & Skerratt (2015) describe resilience as: Social ecological resilience builds upon this understanding to represent the ability of a community to withstand shocks due to external, ecological factors (Adger 2000)
+2018-BDUK_SF_EVAL_ANNEX_D_PUBLIC_VALUE_dec.txt
+1
+
+Ashmore, Farrington & Skerratt (2015) describe resilience as91: Social ecological resilience builds upon this understanding to represent the ability of a community to withstand shocks due to external, ecological factors (Adger 2000)
+2019-EECC_Consultation_-_Access_IA_dec.txt
+2
+
+
+Cluster: 27
+
+Community and individual resilience A number of sources suggest that the impact of faster broadband can be measured through the effect (positive or negative) it has on community resilience (Ashmore, Farrington & Skerratt 2015; Ashmore 2015; Heesen, Farrington & Skerratt, 2013)
+2018-BDUK_SF_EVAL_ANNEX_D_PUBLIC_VALUE_dec.txt
+1
+
+The Internet Safety Strategy is part of our Charter online harms work to protect people from harmful content and behaviour, through building understanding and resilience, and working with industry to encourage the development of technological solutions
+2017-Government_Response_to_the_Internet_Safety_Strategy_Green_Paper_-_Final_dec.txt
+2
+
+43 Network security and resilience Provisions for the security and resilience of telecoms networks currently derive from the Framework Directive and have been implemented in sections 105A-D of the Communications Act 2003
+2019-EECC_Consultation_-_Publication_Version__4_Updated__dec.txt
+3
+
+Would your organisation value an EU-wide standard covering security & resilience for communications networks? 18
+2011-CVCA1181D001Impact_of_Security_and_Integrity_Provisions_of_ECF_v1-2_dec.txt
+4
+
+The US in particular has invested in programmes to build resilience, such that children are better able to adapt to adversity and withstand harms, and it is worth asking whether or not this is also desirable in the UK
+2016-Report_of_DCMS_Expert_Panel__Autumn_2015__FINAL__dec.txt
+5
+
+   Public Health England's  Rise Above  campaign which launched in 2015 aims to delay and prevent risky behaviours and by tackling multiple issues builds emotional resilience in young people aged 11 to 16
+2017-Internet_Safety_Strategy_green_paper_dec.txt
+6
+
+What does a good Humanitarian Assistance response look like? A good HA response will consider how to meet the different needs of those affected by a disaster, in the short, medium, and long term and know when to exit to encourage resilience in individuals and communities
+2010-HA_strategic_guide_draft_dec.txt
+7
+
+Heesen, Farrington & Skerratt (2013)101 identify the impact on technological engagement (for instance through improving unreliable internet connections), the ability to live and work in a rural setting (the use of superfast in maintaining a rural life), and the capability for the local community to act together as key parts of community resilience that could be affected by a Universal Service Obligation
+2018-New_Build_Developments_Impact_Assessment_FINAL_dec.txt
+8
+
+The Employee Ownership Association makes the case for employee ownership in a report published in 2018, demonstrating that the  ownership dividend  translates to 4 engaged workforces, higher productivity and resilience based on long term stewardship of value 
+2019-Consultation_on_the_future_definition_of_public_service_mutuals_dec.txt
+9
+
+In recent 4 months the Government has begun to treat the matter of building media literacy, resilience and agency in citizens sufficiently seriously
+2019-27._AVMSD_UK_response_FINAL_21.8.19_dec.txt
+10
+
+We will champion innovation in business models, and build capacity, skills and resilience in organisations in heritage to enable them to diversify their income and attract new investment
+2018-National_Heritage_Memorial_Fund_ARA_2017-18_dec.txt
+11
+
+Programmes such as Resilient Heritage and the Great Place Scheme have continued to address the need to build greater resilience in heritage organisations, to embed culture in local plans and decision making, and to support growth
+2018-Heritage_Lottery_Fund_ARA_2017-18_dec.txt
+12
+
+This includes opportunities for greater flexibility at The Royal Parks and supporting sporting and cultural organisations to explore new model options to increase resilience and promote sustainability PAGE | 83 Department for Culture, Media and Sport Annual Report and Accounts 2015-16 Fraud and Error The Department s policy towards fraud, malpractice and corruption is one of zero tolerance, whether by the Department itself or the ALBs for which it is responsible
+2016-DCMS_Annual_Report_and_Accounts_2015-16__Print_Ready_Version__dec.txt
+13
+
+As part of our ACE funded Museum Resilience funding, we developed activities to enhance the museum s resilience and sustainability by engaging these local non-visiting communities and developing sustainable active participation programmes to ensure that the museum is relevant to their interests and needs
+2018-Geffrye_Museum_annual_report_and_accounts_2017_to_2018_HC1314_dec.txt
+14
+
+This focussed on increasing the resilience and recovery of tourism businesses in the face of unexpected events, such as the extreme weather of Winter 2014
+2015-DCMS_annual_report_and_accounts_2014_to_2015__web-optimised_PDF__dec.txt
+15
+
+We have continued to support the sector in a challenging operating environment, embedding new programmes and initiatives, including Resilient Heritage and the Great Place Scheme, to address the need to build greater resilience in heritage organisations, to embed culture in local plans and decision making and to support growth
+2018-Heritage_Lottery_Fund_ARA_2016-17_dec.txt
+16
+
+Examples include increased focus on employee wellbeing and resilience; developed HR policies and processes; and used a range of resourcing strategies to meet the growing staffing requirements
+2019-DCMS_Annual_Report_and_Accounts_2018-19_Print__excluding_cover__dec.txt
+17
+
+Low carbon sustainability and climate resilience are therefore integral to programmes assessment and design
+2019-The_Prosperity_Fund__Annual_Report_2018_19_dec.txt
+18
+
+With the aim of reducing isolation and increasing resilience, Manchester Cares creates opportunities to bring older and younger people together
+2018-Big_Lottery_Fund-Annual_Report-2017-18.1FULL_WEB_dec.txt
+19
+
+This activity makes a major contribution to the resilience and outlook of organisations and is good for the UK economy
+2019-Arts_Council_annual_report_2018_2019_dec.txt
+20
+
+We continue to invest smallscale capital funding to improve sustainability and resilience, particularly of building based organisations, with over £9.5 million of investment announced in January 2015
+2019-Arts_Council_annual_report_14-15_dec.txt
+21
+
+Detailed information on how Arts Council England is working towards building resilience in the arts and culture sector through environmental sustainability can be found on pages 14 to 15
+2019-Arts_Council_annual_report_14-15_dec.txt
+22
+
+The Watermill Theatre in Newbury, Berkshire, received a capital award of just under £500,000 in April 2014 towards the improvement of its long-term environmental performance, improving artist and audience comfort and enhancing resilience through reduced running costs
+2019-Arts_Council_annual_report_14-15_dec.txt
+23
+
+
+Cluster: 7
+
+For example, while many firms in the City of London will lease high capacity lines from multiple networks to obtain resilience to technical failures, in the Ofcom data, the maximum available download speeds in the local authority are low by national standards, and few postcodes fall into the categories above
+2018-BDUK_SF_EVAL_ANNEX_B_ECONOMIC_IMPACTS_dec.txt
+1
+
+
+Cluster: 11
+
+These guidelines are expected to provide criteria on down- and uplink bandwidth, resilience, error-related parameters and latency
+2019-EECC_Consultation_-_Publication_Version__4_Updated__dec.txt
+1
+
+While some of the additional resilience is achieved by capital expenditure, for example, by providing cables by entirely separate routes into the business premises, many elements are operational expenses
+2013-Ewan_Sutherland_Response_dec.txt
+2
+
+Communications providers in the business market differentiate themselves on matters such as network resilience and guaranteed service levels rather than purely on price as happens in the consumer market
+2011-FWR2011-Verizon_dec.txt
+3
+
+Some are of particular help to those with low financial resilience, for example, consumers with low levels of current account balances can benefit from apps that can identify upcoming bills that are likely to mean they go into an expensive overdraft and instead automatically provide cheaper short-term funding
+2019-Smart-Data-Consultation_dec.txt
+4
+
+Digital networks have inherently more latency than analogue circuits and power resilience has not been designed in to the new fibre-based networks
+2019-Joint_ENA___JRC_Response_to_DCMS_Consultation_-_Statement_of_Strategic_Priorities_dec.txt
+5
+
+This would incentivise neighbouring landowners to install their own small-cell(s) increasing network resilience and capacity
+2017-Community_Fibre_CfE_response_dec.txt
+6
+
+The Sub-Board met four times in 2015-16 and focussed on issues including telecoms resilience, appointments, the Single Departmental Plan and the BBC Charter
+2016-DCMS_Annual_Report_and_Accounts_2015-16__Print_Ready_Version__dec.txt
+7
+
+
+Cluster: 15
+
+Ofcom should define network resilience management   including the creation of resilience standards for different network layers   as one of their strategic priorities for telecom regulation over the next five years
+2019-Huawei_response_to_DCMSs_public_consultation_on_the_Statement_of_Strategic_priorities_FINAL_27_March_2019_dec.txt
+1
+
+Available online at: 40 Community resilience 107.A number of academic sources use the framework of  enhancing resilience  as a measure of the impacts of better broadband
+2019-EECC_Consultation_-_Access_IA_dec.txt
+2
+
+Quality and resilience: Fibre networks designed to an appropriate standard can deliver the kind of resilience and QoS metrics that are currently only available (at a considerable price premium) to businesses purchasing dedicated leased lines
+2017-Call_for_Evidence_Response_58_dec.txt
+3
+
+Community resilience A number of academic sources use the framework of  enhancing resilience  as a measure of the impacts of better broadband
+2017-Universal_Service_Obligation_-_final_IA_dec.txt
+4
+
+A number of academic sources use the framework of  enhancing resilience  as a measure of the impacts of better broadband
+2018-New_Build_Developments_Impact_Assessment_FINAL_dec.txt
+5
+
+The focus of our Building Resilience programme is to increase the resilience of up to 100 cultural organisations and to provide models and case studies that can be shared and used more widely to increase resilience across the sector
+2017-Arts_Council_annual_report_16-17_dec.txt
+6
+
+The research we commissioned around resilience from Golant Media Ventures   What is resilience anyway?  was published in autumn 2018
+2019-Arts_Council_annual_report_2018_2019_dec.txt
+7
+
+
+Cluster: 9
+
+This is because such expenditure is an intrinsic part of the network build, while there is considerable investment in legacy and new networks to ensure redundancy, resilience and security, separate security or resilience funding streams not identified by CSPs and so can not be identified within this research
+2011-CVCA1181D001Impact_of_Security_and_Integrity_Provisions_of_ECF_v1-2_dec.txt
+1
+
+The MBG understands that at the Electronic Communications Resilience and Response Group (ECRRG) it has been agreed that workshops involving legal, security, operations, and resilience representatives from the communications provider community, BIS and Ofcom should work through the level of standards that will be set and levels of reporting required
+2011-FWR2011-MBG_dec.txt
+2
+
+
+Cluster: 25
+
+In addition to promoting economic development, culture can play a role in peacebuilding and security as well as building resilience to crises, bolstering the case for the supporting role culture can play in the UK s current international development agenda
+2016-Cultural_protection_fund_consultation__2__dec.txt
+1
+
+The Government has also committed to a wide ranging campaign to increase awareness of online safety issues, and to build children's resilience to potential online harms
+2016-20160705_AVConsultationResponseFINAL__2__dec.txt
+2
+
+Partnership can play an important part in a resilient cultural sector   but we won t achieve resilience without greater diversity
+2019-Arts_Council_annual_report_15-16_dec.txt
+3
+
+Several are already delivering, like the DFID led Centre for Global Disaster Protection which is building developing countries  financial resilience to natural disasters to reduce economic and social impacts
+2018-Cross_government_Prosperity_Fund_Annual_Report_2018_dec.txt
+4
+
+We mitigate this risk by maintaining an up-to-date Flood Response Plan, and upgrading our buildings and systems to enhance our resilience against temperature extremes and any future volatility in energy markets
+2018-The_National_Archives_Annual_Report_and_Accounts_2017-18_Accessible_dec.txt
+5
+
+Through the Centre for Global Disaster Protection, and the ASEAN Low Carbon programme, we are working with countries to increase their resilience to natural disasters often linked to climate change, to reduce emissions and transition to low carbon economies
+2019-The_Prosperity_Fund__Annual_Report_2018_19_dec.txt
+6
+
+This builds on our previous commitments to provide £5.8 billion in international climate finance between 2016 and 2020 to help developing countries reduce emissions, build resilience to climate change, tackle deforestation and pursue clean and sustainable economic growth
+2019-The_Prosperity_Fund__Annual_Report_2018_19_dec.txt
+7
+
+The centre plays an important role in strengthening resilience to natural disasters like droughts, storms and flooding; extreme weather events that are becoming more frequent due to climate change
+2019-The_Prosperity_Fund__Annual_Report_2018_19_dec.txt
+8
+
+Developing a community led and inclusive approach to address the causes of climate change and /or build resilience to its impacts, with the aim of encouraging behaviour change and with the potential to be rolled out to other parts of Wales
+2018-Big_Lottery_Fund-Annual_Report-2017-18.1FULL_WEB_dec.txt
+9
+
+
+Cluster: 22
+
+2.7 2.8 The main points made by respondents regarding the charity included: Respondents required more detail to make a better informed judgement about the resilience of the proposed model
+2013-English_Heritage_New_Model_Consultation_Response_dec.txt
+1
+
+ Libraries Development Funding - £984,000 The Arts Council  has funded a range of development activities in the past year, focusing closely on developing the resilience of the sector, supporting the activities of the Leadership for Libraries Task Force and delivery of the Society of Chief Librarians (SCL) Universal Offers
+2017-LibrariesAnnualReport2016Final.docx_dec.txt
+2
+
+Libraries Development Funding This fund has supported a range of development activities in the past year, focusing closely on developing the resilience of the sector including delivery of the Society of Chief Librarians Universal Offers
+2015-Final_Libraries_Annual_Report_to_Parliament_2015_dec.txt
+3
+
+
+Cluster: 13
+
+However, it is possible to move further towards greater certainty with regard to network availability by providing for sufficient resilience and security measures
+2010-10-1132-implementing-revised-electronic-communications-framework-consultation_dec.txt
+1
+
+For example, the Internet of Things (IoT) will proliferate network end points and require low-power, low-latency solutions3; increased use of cloud applications is likely to drive demand for higher upload speeds and more symmetric services; use of digital applications for healthcare and education will also drive demand for availability, resilience and consistency
+2017-BT_CfE_response_dec.txt
+2
+
+It is clear that 100% availability under any circumstances cannot be guaranteed and we note the government s view that it is possible to move further towards greater certainty by providing sufficient resilience and security measures
+2011-FWR2011-BT_dec.txt
+3
+
+In part this principle follows B.4 (the technical protection of systems), but in addition organisations should build resilience of service into their overall approach
+2017-NIS_Directive_-_Public_Consultation__1__dec.txt
+4
+
+2.32 Whilst speed may remain a differentiator of service, it is expected that resilience/reliability will become more prominent
+2014-DCIS_consultation_final_dec.txt
+5
+
+We have recruited additional personnel, with the aim of improving the resilience and expertise of the team
+2019-UKAD_Annual_report_quality_update_final_dec.txt
+6
+
+This will provide greater resilience and savings in the region of £200,000 per annum in recurring costs
+2015-DCMS_annual_report_and_accounts_2014_to_2015__web-optimised_PDF__dec.txt
+7
+
+
+Cluster: 14
+
+Continue to work on broader internet safety issues, including work led by the UK Council for Child Internet Safety (UKCCIS), and raising awareness and resilience Further detail on these next steps is set out on page 9
+2016-20160705_AVConsultationResponseFINAL__2__dec.txt
+1
+
+
+Cluster: 17
+
+Other key non-monetised costs by  main affected groups There are some minor potential costs to secure resilience of networks as MVNO subscribers could roam onto another network when theirs suffers as outage
+2014-Partial_Notspots_IA_final_for_consultation_dec.txt
+1
+
+
+Cluster: 5
+
+ Who are our partners in Community Resilience? Engaged individuals and community groups Community Networks Primary Statutory Those organisations that could include community resilience in their existing activities
+2010-HA_strategic_guide_draft_dec.txt
+1
+
+
+Cluster: 23
+
+raise young people s aspirations, build their resilience, and inform their decisions   and thereby reducing teenage pregnancy, risky behaviours such as substance misuse, and involvement in crime and anti-social behaviour
+2019-Statutory_Guidance_for_Local_Authorities_on_Services_and_Activities_to_Improve_Young_People_s_Well-being_dec.txt
+1
+
+We will build our resilience and strengthen IWM as a result
+2017-IWM_ARA_16_17_WEB_dec.txt
+2
+
+We will improve our financial performance, build our resilience and strengthen IWM as a result
+2018-IWM_annual_report_and_accounts_2017_to_2018_HC1199_dec.txt
+3
+
+We will improve our financial performance, build our resilience and strengthen IWM
+2016-56470_HC_434_Web_dec.txt
+4
+
+We also need to make sure that we have the flexibility and resilience to respond to new priorities that we cannot yet foresee
+2019-Historic_England_Annual_Report_and_Accounts_2018_19_dec.txt
+5
