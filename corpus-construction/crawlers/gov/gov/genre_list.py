@@ -1,33 +1,57 @@
 import pickle
 
-sort_by_search_term = True
 
-genre_list = [('annual report',),
-              ('call for evidence',),
-              ('economic estimates',),
-              ('evaluation',),
-              ('evidence assessment',),
-              ('export of objects',),
-              ('freedom of information', 'FoI', 'foi'),
-              ('funding agreement',),
-              ('green paper',),
-              ('equality impact assessment',),
+genre_list = [('financial reporting manual',),
               ('regulatory impact assessment',),
-              ('impact assessment',),
-              ('consultation',),
-              ('market impact',),
-              ('letter',),
+              ('equality impact assessment',),
+              ('freedom of information', 'FoI', 'foi'),
+              ('evidence assessment',),
+              ('economic estimates',),
               ('role specification',),
+              ('export of objects',),
+              ('call for evidence',),
+              ('funding agreement',),
+              ('impact assessment',),
+              ('technical report',),
               ('spending review',),
+              ('tailored review',),
+              ('annual report',),
+              ('market impact',),
+              ('green paper',),
+              ('white paper',),
+              ('consultation',),
+              ('guidance',),
+              ('letter',),
               ('strategy',),
               ('survey',),
-              ('tailored review',),
-              ('technical report',),
-              ('white paper',),
-              ('minutes',)]
+              ('evaluation',),
+              ('review',),
+              ('minutes',),
+              ('budget',),
+              ('act',)]
 
-if sort_by_search_term:
+forbidden = {}
+for genre in genre_list:
 
-    genre_list = [tuple[0] for tuple in genre_list]
+    if genre[0] == 'act':
 
-pickle.dump(genre_list, open('genre_list', 'wb'))
+        forbidden[genre[0]] = ['action', 'action'.upper(), 'action'.capitalize(),
+                               'activity', 'activity'.upper(), 'activity'.capitalize(),
+                               'activities', 'activities'.upper(), 'activities'.capitalize(),
+                               'contract', 'contract'.upper(), 'contract'.capitalize(),
+                               'fact', 'fact'.upper(), 'fact'.capitalize(),
+                               'impact', 'impact'.upper(), 'impact'.capitalize(),
+                               'practice', 'practice'.upper(), 'practice'.capitalize(),
+                               'practioner', 'practioner'.upper(), 'practioner'.capitalize()]
+
+    elif genre[0] == 'survey':
+
+        forbidden[genre[0]] = ['surveyor', 'surveyor'.upper(), 'surveyor'.capitalize(),
+                               'surveying', 'surveying'.upper(), 'surveying'.capitalize()]
+
+    else:
+
+        forbidden[genre[0]] = []
+
+pickle.dump(forbidden, open('forbidden.pickle', 'wb'))
+pickle.dump(genre_list, open('genre_list.pickle', 'wb'))
